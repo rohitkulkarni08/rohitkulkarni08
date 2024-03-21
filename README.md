@@ -23,3 +23,5 @@ Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/rohitak8/) | 📧
 - **NFL Player Evaluation**: Conducted regression analysis and hypothesis testing to evaluate NFL players, establishing the significance of key factors beyond physical attributes
 - **Flight Price Estimation**: Predicted flight prices using several regression algorithms like XGBoost, SVR, RandomForestRegressor, achieving 95% accuracy score
 - **Customer Churn Rate Prediction**: Analyzed customer retention in online food sales, and leveraged machine learning models to predict customer churn rate with 92% classification accuracy
+
+More projects in my GitHub repo..
