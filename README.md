@@ -8,7 +8,7 @@ Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/rohitak8/) | 📧
 🎓 **Masters Science in Statistics & Data Science** at Rutgers University
 
 💼 **Data Engineer & Data Scientist** at Fractal Analytics
-* Developed a Portfolio Optimization for a prominent CPG company, saving over $150M in operational revenue
+* Developed a Portfolio Optimization for a prominent CPG company, to help identify delisting opportunities for underperforming products
 * Automated 10+ end-to-end ETL and CI/CD pipelines reducing manual activities by over 40% 
 * Migrated 60+ notebooks from Python to PySpark improving runtime by 85%
 * Lead the technical activities of the US track of the project, managing a team of 3
