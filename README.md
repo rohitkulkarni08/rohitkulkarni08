@@ -20,6 +20,7 @@ Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/rohitak8/) | 📧
 
 ## 🚀 Projects
 - **Optimized E-Commerce Sales Analysis with Azure ETL Pipeline**: Built an advanced ETL pipeline leveraging Microsoft Azure and PySpark to analyze and optimize e-commerce sales, providing actionable insights through detailed data processing and analysis.
+- **Enhancing Predictive Model Reliability with Bootstrap Techniques**: Applied both standard Bootstrap and the Bag of Little Bootstraps (BLB) methods to assess the reliability and efficiency of predictive models in large datasets, offering scalable and robust statistical analysis
 - **Automated ETL Pipeline for Enhanced Movie Data Insights**: Developed a comprehensive, automated ETL pipeline using Microsoft Azure to efficiently process and analyze IMDb movie ratings data, ensuring seamless integration and storage in sophisticated reporting frameworks
 - **NFL Player Evaluation**: Conducted regression analysis and hypothesis testing to evaluate NFL players, establishing the significance of key factors beyond physical attributes
 - **Flight Price Estimation**: Predicted flight prices using several regression algorithms like XGBoost, SVR, RandomForestRegressor, achieving 95% accuracy score
