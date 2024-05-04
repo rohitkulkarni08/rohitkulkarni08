@@ -19,6 +19,7 @@ Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/rohitak8/) | 📧
 * Microsoft Certified Azure Data Engineer Associate (DP-203)
 
 ## 🚀 Projects
+- **Enhancing Predictive Model Reliability with Bootstrap Techniques**: Enhanced the reliability and computational efficiency of predictive models by implementing Bag of Little Bootstraps (BLB) across large datasets, achieving superior scalability and accuracy in uncertainty estimation
 - **Optimized E-Commerce Sales Analysis with Azure ETL Pipeline**: Built an advanced ETL pipeline leveraging Microsoft Azure and PySpark to analyze and optimize e-commerce sales, providing actionable insights through detailed data processing and analysis.
 - **Enhancing Predictive Model Reliability with Bootstrap Techniques**: Applied both standard Bootstrap and the Bag of Little Bootstraps (BLB) methods to assess the reliability and efficiency of predictive models in large datasets, offering scalable and robust statistical analysis
 - **Automated ETL Pipeline for Enhanced Movie Data Insights**: Developed a comprehensive, automated ETL pipeline using Microsoft Azure to efficiently process and analyze IMDb movie ratings data, ensuring seamless integration and storage in sophisticated reporting frameworks
