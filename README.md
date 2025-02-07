@@ -1,4 +1,4 @@
-# 📈 Data Scientist & Data Engineer | Master's in Statistics and Data Science @ Rutgers University | Passionate about Machine Learning & Data-Driven Insights 🌟
+# 📈 Data Scientist & Data Engineer | Master's in Statistics and Data Science @ Rutgers University
 
 I'm Rohit Kulkarni, a Data Scientist and Engineer with a passion for using data to drive impactful decisions. I'm currently pursuing my Master's in Statistics & Data Science at Rutgers University. I specialize in statistical modeling, machine learning, and data engineering.
 
